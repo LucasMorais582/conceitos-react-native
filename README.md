@@ -30,6 +30,8 @@ yarn init
 
 - [Rocketseat - Ambiente React Navite](https://react-native.rocketseat.dev/)
 
+#### Inicializando a aplicação
+
 - Emulador/Dispositivo físico Android
 ```
 react-native run-android
