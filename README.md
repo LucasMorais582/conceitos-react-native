@@ -11,7 +11,6 @@ Aplicação mobile que adiciona repositórios fictícios em uma lista. Ela traba
 - Axios
 - Babel
 - Eslint
-- Jest
 
 ## Preparação do ambiente
 
