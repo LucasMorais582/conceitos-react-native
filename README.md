@@ -28,7 +28,7 @@ yarn init
 
 #### OBS: Para rodar a aplicação, é necessário configurar o telefone ou emulador
 
-- [Rocketseat - Ambiente React Navite](https://react-native.rocketseat.dev/)
+- [Rocketseat - Ambiente React Native](https://react-native.rocketseat.dev/)
 
 #### Inicializando a aplicação
 
